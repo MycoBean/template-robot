@@ -2,14 +2,14 @@
 
 A template repository for a modern Python library
 
-[![GitHub Actions Status](https://github.com/matthewfeickert/python-library-template/workflows/CI/CD/badge.svg)](https://github.com/matthewfeickert/python-library-template/actions)
-[![Code Coverage](https://codecov.io/gh/matthewfeickert/Python-library-template/graph/badge.svg?branch=master)](https://codecov.io/gh/matthewfeickert/Python-library-template?branch=master)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/matthewfeickert/Python-library-template.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/matthewfeickert/Python-library-template/latest/files/)
-[![CodeFactor](https://www.codefactor.io/repository/github/matthewfeickert/Python-library-template/badge)](https://www.codefactor.io/repository/github/matthewfeickert/Python-library-template)
+[![GitHub Actions Status](https://github.com/MycoBean/template-robot/workflows/CI/CD/badge.svg)](https://github.com/MycoBean/template-robot/actions)
+[![Code Coverage](https://codecov.io/gh/MycoBean/template-robot/graph/badge.svg?branch=master)](https://codecov.io/gh/MycoBean/template-robot?branch=master)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/MycoBean/template-robot.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MycoBean/template-robot/latest/files/)
+[![CodeFactor](https://www.codefactor.io/repository/github/MycoBean/template-robot/badge)](https://www.codefactor.io/repository/github/mycobean/template-robot)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-[![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://matthewfeickert.github.io/python-library-template)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthewfeickert/python-library-template/master)
+[![Docs](https://img.shields.io/badge/docs-master-blue.svg)](https://mycobean.github.io/template-robot)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MycoBean/template-robot/master)
 
 <!-- Here libname should be replaced with your library's name on PyPI  -->
 [![PyPI version](https://badge.fury.io/py/libname.svg)](https://badge.fury.io/py/libname)
