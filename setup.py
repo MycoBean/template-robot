@@ -3,7 +3,7 @@ from setuptools import setup
 extras_require = {
     "develop": [
         "check-manifest",
-        "pytest~=5.2",
+        "pytest~=6.2",
         "pytest-cov~=2.8",
         "pytest-console-scripts~=0.2",
         "bumpversion~=0.5",
@@ -16,6 +16,7 @@ extras_require = {
 extras_require["complete"] = sorted(set(sum(extras_require.values(), [])))
 
 setup(
+    version='0.0.2'
     extras_require=extras_require,
     entry_points={"console_scripts": ["libname=libname.commandline:libname"]},
 )
