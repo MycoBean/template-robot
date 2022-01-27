@@ -16,7 +16,7 @@ extras_require = {
 extras_require["complete"] = sorted(set(sum(extras_require.values(), [])))
 
 setup(
-    version='0.0.3',
+    version='0.0.4',
     extras_require=extras_require,
     entry_points={"console_scripts": ["libname=libname.commandline:libname"]},
 )
